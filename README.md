@@ -7,6 +7,8 @@ The funnel is built as a complete two-step conversion engine tailored for the Ni
 2. **Main Course Sales Page (`/course`):** The comprehensive course landing page breaking down the opportunity gap, 14-module syllabus, bonus stack worth ₦310k, affiliate refund hack, 40% discount offer (₦30,000 today instead of ₦50,000), and direct bank payment form with instant WhatsApp proof submission for admission into the VIP group community.
 
 > 🛒 **Currency:** Nigerian Naira (₦). Payment verification via bank transfer and direct WhatsApp group admission.
+>
+> 🌐 **Live Demo:** [https://logistics-training-six.vercel.app](https://logistics-training-six.vercel.app/)
 
 ---
 

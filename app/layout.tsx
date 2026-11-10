@@ -18,7 +18,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://logistics-training.vercel.app"),
+  metadataBase: new URL("https://logistics-training-six.vercel.app"),
   title: siteMeta.title,
   description: siteMeta.description,
   keywords: [
